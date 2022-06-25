@@ -7,5 +7,8 @@ public class Demo1 {
         System.out.println("113");
         System.out.println("113");
         System.out.println("mastertest");
+        System.out.println("113!");
+        System.out.println("114!");
+        System.out.println("114test");
     }
 }
